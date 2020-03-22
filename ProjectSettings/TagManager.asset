@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: PlayField
+    uniqueID: 4135228063
+    locked: 0
+  - name: Sun
+    uniqueID: 3202512325
+    locked: 0
+  - name: Ball
+    uniqueID: 1373743001
+    locked: 0
+  - name: Players
+    uniqueID: 3185736261
+    locked: 0
